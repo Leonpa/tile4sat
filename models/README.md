@@ -1,0 +1,4 @@
+Download the pretrained NAIP Tile2Vec Model here
+Download via: 
+https://www.dropbox.com/
+https://uca9dc360d4d42ba6bf451da2036.dl.dropboxusercontent.com/cd/0/get/CAThU_fuHTcBAM7BfVbFyWdPV7sXP2ddJhuuUPyfdkldSysi35gfZrKM5EXFmHonqGRAhB8BfxGMHX13UtxUJaLFcEIy1YqQM93J144PKnZRhXhH15wq-Fdwsj5LQJaXYAWoLlvdaj0fqPHxHM7xHA_ydTkcyr6T87Mis5gbq6zfdw/file?_download_id=44852249031959734337045449412337776826249042895787750535931202228&_notify_domain=www.dropbox.com&dl=1
